@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Freshmenta-ECommerce--ReactJs/static/css/main.893d6394.css",
+    "main.js": "/Freshmenta-ECommerce--ReactJs/static/js/main.f5c89c14.js",
+    "static/js/453.2d40735f.chunk.js": "/Freshmenta-ECommerce--ReactJs/static/js/453.2d40735f.chunk.js",
+    "static/media/banner.jpg": "/Freshmenta-ECommerce--ReactJs/static/media/banner.e3cf32ae306780659827.jpg",
+    "static/media/bg-logo.png": "/Freshmenta-ECommerce--ReactJs/static/media/bg-logo.2a99178f4f0902f4f020.png",
+    "static/media/promagranade.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/promagranade.8ef07b6a115042386dea.jpeg",
+    "static/media/blackberry.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/blackberry.3f5cdd6552c976b138a1.jpeg",
+    "static/media/carrots.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/carrots.ea6b4103b94d6f1520ab.jpeg",
+    "static/media/strawberry.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/strawberry.3c1648dbeec0624b1472.jpeg",
+    "static/media/apple.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/apple.922a9ce31ca490205cf6.jpeg",
+    "static/media/cucumber.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/cucumber.9deb6bdc57315b11362f.jpeg",
+    "static/media/avacado.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/avacado.46e43553469966737dd4.jpeg",
+    "static/media/orange.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/orange.adfa0b1f54ef004ab215.jpeg",
+    "static/media/watermelon.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/watermelon.bbeec843ca6a6b2b7aa7.jpeg",
+    "index.html": "/Freshmenta-ECommerce--ReactJs/index.html",
+    "main.893d6394.css.map": "/Freshmenta-ECommerce--ReactJs/static/css/main.893d6394.css.map",
+    "main.f5c89c14.js.map": "/Freshmenta-ECommerce--ReactJs/static/js/main.f5c89c14.js.map",
+    "453.2d40735f.chunk.js.map": "/Freshmenta-ECommerce--ReactJs/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893d6394.css",
+    "static/js/main.f5c89c14.js"
+  ]
+}
