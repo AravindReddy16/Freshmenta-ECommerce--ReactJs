@@ -1,0 +1,129 @@
+.productDiv {
+    width: 100%;
+    height: 100%;
+    padding: 3rem;
+}
+.product-img {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+.product-img>img {
+    width: 50%;
+    height: 100%;
+}
+.product-details {
+    width: 100%;
+    height: 50%;
+}
+.product-head {
+    width: 100%;
+    height: 35%;
+}
+#pro-h {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+#pro-p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.product-pf {
+    width: 100%;
+    height: 35%;
+    display: flex;
+}
+.pro-price {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+.pro-fav {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.pro-fav>button {
+    width: 8rem;
+    height: 3rem;
+    cursor: pointer;
+    border: 2px solid #53B175;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 15px;
+}
+.product-cart {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: end;
+}
+.product-cart>button {
+    width: 100%;
+    height: 3.5rem;
+    background-color: #53B175;
+    border: 0px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+}
+.product-cart>button:hover {
+    background-color: #1db856;
+}
+@media(width < 1100px) {
+    .productDiv {
+        padding: 1rem 0.5rem;
+    }
+    .product-img>img {
+        width: 100%;
+    }
+    .product-details {
+        height: 60%;
+    }
+    .product-head {
+        height: 30%;
+    }
+    #pro-h {
+        font-size: 32px;
+    }
+    #pro-p {
+        font-size: 16px;
+    }
+    .product-pf {
+        height: 35%;
+        flex-direction: column;
+    }
+    .pro-price {
+        width: 100%;
+        height: 50%;
+        align-items: start;
+        justify-content: center;
+    }
+    .pro-fav {
+        width: 100%;
+        height: 50%;
+        align-items: end;
+        justify-content: center;
+    }
+    .pro-fav>button {
+        width: 6rem;
+    }
+    .product-cart {
+        height: 30%;
+        padding: 0rem 1rem;
+        align-items: center;
+    }
+    .product-cart>button {
+        font-size: 25px;
+    }
+}

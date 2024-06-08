@@ -1,0 +1,146 @@
+.homeDiv {
+    width: 100%;
+    height: 100%;
+    padding: 3rem;
+    overflow: auto;
+}
+.homeDiv::-webkit-scrollbar {
+    display: none;
+}
+.top-div {
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+.top-div>img {
+    width: 15rem;
+    height: 5rem;
+    cursor: pointer;
+}
+.banner-div {
+    width: 100%;
+    height: 40%;
+    margin-bottom: 1rem;
+}
+.banner-div>img {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+.items-div {
+    width: 100%;
+}
+.fruits-div {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.vegetables-div {
+    width: 100%;
+}
+.header-div {
+    width: 100%;
+    height: 4rem;
+}
+.header-div>p {
+    font-size: 30px;
+    font-weight: 600;
+}
+.items {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-evenly;
+}
+.item {
+    width: 10rem;
+    height: 15rem;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgb(206, 206, 206);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.item:hover {
+    transform: scale(1.03, 1.03);
+}
+.image {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image>img {
+    width: 5rem;
+    height: 5rem;
+}
+.item-detail {
+    width: 100%;
+    height: 50%;
+    padding: 0px 20px 20px 20px;
+}
+.item-name {
+    width: 100%;
+    height: 20%;
+    font-size: 16px;
+    font-weight: 550;
+}
+.item-qty {
+    width: 100%;
+    height: 15%;
+    font-size: 12px;
+    font-weight: 450;
+}
+.item-cart {
+    width: 100%;
+    height: 65%;
+    display: flex;
+}
+.item-price {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: end;
+    font-size: 17px;
+    font-weight: 500;
+}
+.cart-btn {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+.cart-btn>button {
+    width: 3rem;
+    height: 3rem;
+    border: 0px;
+    background-color: #00B36F;
+    color: white;
+    border-radius: 10px;
+    font-size: 35px;
+}
+@media(width < 991px) {
+    .homeDiv {
+        padding: 1rem;
+    }
+    .items {
+        gap: 1rem;
+    }
+    .item {
+        width: 9rem;
+        height: 14rem;
+    }
+    .item-name {
+        font-size: 14px;
+    }
+    .item-qty {
+        font-size: 11px;
+    }
+    .cart-btn>button {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+}
