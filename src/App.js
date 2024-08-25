@@ -32,7 +32,7 @@ function App() {
                 <Route path="/favourite" element={<Favourite />}></Route>
                 <Route path="/account" element={<Account />}></Route>
                 <Route path="/product" element={<Product />}></Route>
-                <Route path="*" element={<PageNotFound />}></Route>
+                <Route path="*" element={<Home />}></Route>
               </Routes>
             </div>
           </div>
