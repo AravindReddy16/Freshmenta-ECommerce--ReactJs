@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Freshmenta-ECommerce--ReactJs/static/css/main.893d6394.css",
-    "main.js": "/Freshmenta-ECommerce--ReactJs/static/js/main.f5c89c14.js",
+    "main.js": "/Freshmenta-ECommerce--ReactJs/static/js/main.77a1cf13.js",
     "static/js/453.2d40735f.chunk.js": "/Freshmenta-ECommerce--ReactJs/static/js/453.2d40735f.chunk.js",
     "static/media/banner.jpg": "/Freshmenta-ECommerce--ReactJs/static/media/banner.e3cf32ae306780659827.jpg",
     "static/media/bg-logo.png": "/Freshmenta-ECommerce--ReactJs/static/media/bg-logo.2a99178f4f0902f4f020.png",
@@ -16,11 +16,11 @@
     "static/media/watermelon.jpeg": "/Freshmenta-ECommerce--ReactJs/static/media/watermelon.bbeec843ca6a6b2b7aa7.jpeg",
     "index.html": "/Freshmenta-ECommerce--ReactJs/index.html",
     "main.893d6394.css.map": "/Freshmenta-ECommerce--ReactJs/static/css/main.893d6394.css.map",
-    "main.f5c89c14.js.map": "/Freshmenta-ECommerce--ReactJs/static/js/main.f5c89c14.js.map",
+    "main.77a1cf13.js.map": "/Freshmenta-ECommerce--ReactJs/static/js/main.77a1cf13.js.map",
     "453.2d40735f.chunk.js.map": "/Freshmenta-ECommerce--ReactJs/static/js/453.2d40735f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.893d6394.css",
-    "static/js/main.f5c89c14.js"
+    "static/js/main.77a1cf13.js"
   ]
 }
